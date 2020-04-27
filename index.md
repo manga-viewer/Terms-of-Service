@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/manga-viewer/terms/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### What information do we collect?
+- We collect information from you when you fill out a form.
+- We may collect information such as device name, client user-agent and location for advertising.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What do we use your information for?
+Any of the information we collect from you may be used in one of the following ways:
 
-### Markdown
+- To personalize your experience
+(your information helps us to better respond to your individual needs)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- To improve customer service
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-```markdown
-Syntax highlighted code block
+### Do we use cookies?
+We do not use cookies.
 
-# Header 1
-## Header 2
-### Header 3
+### Third party links
+Occasionally, at our discretion, we may include or offer third party products or services on our products. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-- Bulleted
-- List
+### Childrens Online Privacy Protection Act Compliance
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age.
 
-1. Numbered
-2. List
+### Online Privacy Policy Only
+This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-**Bold** and _Italic_ and `Code` text
+### Your Consent
+By using our products, you consent to our products privacy policy.
 
-[Link](url) and ![Image](src)
-```
+Changes to our Privacy Policy
+If we decide to change our privacy policy, we will post those changes on this page.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Contact Us
+If there are any questions regarding this privacy policy you may contact us using the information below.
 
-### Jekyll Themes
+We love hearing your voice. Let's contact us and stay connected!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/manga-viewer/terms/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Email: thuteuk97@gmail.com
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Address: 12 Tran Dang Ninh Street, Quan Hoa Ward, Cau Giay District, Hanoi.
